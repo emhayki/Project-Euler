@@ -11,7 +11,7 @@ The repository is organized as follows:
 
 ## Solutions Directory
 
-The `solutions` directory contains a list of final answers for the problems solved so far. This list will be updated as solutions are obtained for new problems.
+The `Solutions` directory contains a list of final answers for the problems solved so far. This list will be updated as solutions are obtained for new problems.
 
 Please note that the solutions are provided here for reference. I encourage you to attempt the problems independently before referring to the solutions.
 
