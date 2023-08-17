@@ -6,6 +6,7 @@
 #include <numeric>
 
 int main() {
+    
     int limit = 1500000;
     std::vector<int> counts(limit + 1, 0);  
 
