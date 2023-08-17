@@ -3,7 +3,7 @@
 #include <iomanip>
 
 int main() {
-
+ 
 double sum = 0; int i = 2;
 std::vector<long> FibonacciSequence;
 
