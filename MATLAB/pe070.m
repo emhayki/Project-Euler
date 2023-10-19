@@ -47,6 +47,4 @@ function result = eulerPhi(n, Primes)
         end
     end
     
-    if(n > 1); result = result * (1 - 1/n); end
-
 end
