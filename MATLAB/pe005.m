@@ -1,7 +1,6 @@
 
 clc; clear; close
 
-tic
 num = 1;
 
 while(true)
